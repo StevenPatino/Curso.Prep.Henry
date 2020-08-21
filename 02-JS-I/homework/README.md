@@ -4,11 +4,15 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+	* Variables: Un variables es cualquier cosa que puede variar. En JavaScript, incluye variables que contienen valores y pueden cambiar en cualquier tiempo. Adicionalmente Javascript tiene una palabra reservada "var" para decalrar dicho variable y le puedes asignar un valor agregando un (=).
+
+	* Strings: Strings son cadenas de texto que forman parte de una de las cuantas variables que existen.
+
+	* Funciones (argumentos, `return`): Funciones son similares a procedimientos que hacen ciertas tareas o calculan ciertos valores. Pero para que el procedimiento sea considerado como una funcion debe de recibir unos argumentos y regresar (return) ciertos valores. 
+
+	* Declaraciones `if`: Son condiciones que sirven para probar procedimientos logicos. Por ejempo, si alguien es mayor a 21 años que imprime "true" o "false".
+
+	* Valores booleanos (`true`, `false`): Dentro de la declaracion IF los valores booleanos confirman si es verdadero o falso la condicion. 
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
